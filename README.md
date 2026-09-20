@@ -11,23 +11,33 @@ Meu nome é **Guilherme**, sou estudante de matemática aplicada e desenvolvimen
 Uso principalmente 🐍 python e estou atualmente estudando Node.
 
 ## Contatos:
-<div>
-<a href="https://www.instagram.com/guiouza__/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:guilherme.meneghinsouza@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-meneghin-de-souza-7379b4267/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<div>
-  <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0002-0734-1433"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0002-0734-1433
-    </a>
+<div style="flex: 1;">
+  <a href="https://www.instagram.com/guiouza__/" target="_blank">
+    <img
+      loading="lazy"
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank">
+  </a>
+
+  <a href = "mailto:guilherme.meneghinsouza@gmail.com" target="_blank">
+    <img
+      loading="lazy"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/guilherme-meneghin-de-souza-7379b4267/" target="_blank">
+    <img
+      loading="lazy"
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank">
+  </a>
+
+  <a href="https://orcid.org/0009-0002-0734-1433">
+    <img
+      loading="lazy"
+      src="https://orcid.org/sites/default/files/images/orcid_24x24.png"
+      alt="ORCID iD icon"
+      style="width: 1.5em; margin-inline-start: 1em"/>
+  </a>
 </div>
